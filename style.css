@@ -1,0 +1,865 @@
+body {
+    margin: 0%;
+   
+  }
+
+  nav {
+    background-color: white;
+
+  }
+
+  h2 {
+    font-family: "Ubuntu", sans-serif;
+    font-size: 48px;
+    font-weight: 500;
+    margin-top: 12px;
+    margin-left: 29px;
+  }
+
+  .ref {
+    display: flex;
+    gap: 25px;
+  }
+
+  a {
+    position: relative;
+    top: -75px;
+    left: 13%;
+    text-decoration: none;
+    font-size: 20px;
+    color: rgb(128, 123, 123);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+  }
+
+  a:hover {
+    font-weight: 500;
+    color: black;
+  }
+
+  .fer {
+    position: relative;
+    top: -48px;
+    margin-left: 70%;
+  }
+
+  .btn {
+    position: relative;
+    top: -75px;
+    left: 22%;
+    width: 150px;
+    height: 45px;
+    background-color: rgb(73, 80, 182);
+    border: 2px solid rgb(50, 56, 136);
+    border-radius: 50px;
+    color: white;
+    font-size: 18px;
+    font-family: "Poppins", sans-serif;
+  }
+
+  .btn:hover {
+    background-color: rgba(50, 52, 148, 0.904);
+    border: 4px solid black;
+    font-weight: 600;
+    color: black;
+  }
+
+  .world {
+    position: relative;
+    top: -60px;
+    width: 40px;
+    height: 40px;
+  }
+
+  main {
+    position: relative;
+    top: -177px;
+    background-color: rgba(35, 37, 139, 0.897);
+    height: 1300px;
+  }
+
+  h1 {
+    text-align: center;
+    font-size: 98px;
+    font-family: "Poppins", sans-serif;
+    color: white;
+    font-weight: 200;
+  }
+
+  p {
+    text-align: center;
+    font-size: 21px;
+    font-family: "Poppins", sans-serif;
+    ;
+    color: white;
+    margin-top: -30px;
+  }
+
+  .btn2 {
+    position: relative;
+    top: 22px;
+    left: 43%;
+    width: 200px;
+    height: 65px;
+    background-color: rgb(255, 255, 255);
+    border: 2px solid white;
+    border-radius: 50px;
+    color: black;
+    font-size: 21px;
+    font-family: "Poppins", sans-serif;
+  }
+
+  .btn2:hover {
+    font-weight: 600;
+    border: 4px solid black;
+  }
+
+  h5 {
+    text-align: center;
+    margin-top: 38px;
+    color: white;
+    font-family: "Poppins", sans-serif;
+  }
+
+  .pic1 {
+    position: relative;
+    top: 12px;
+    left: 20%;
+    border-radius: 12px;
+    border: 4px solid black;
+  }
+
+  .pic2 {
+    width: 160px;
+    height: 180px;
+    position: absolute;
+    top: 66%;
+    left: 6%;
+    border-radius: 6px;
+    border: 4px solid black;
+  }
+
+  .pic3 {
+    width: 190px;
+    height: 340px;
+    position: absolute;
+    top: 60%;
+    left: 75%;
+    border-radius: 8px;
+    border: 4px solid black;
+  }
+
+  .pic4 {
+    width: 210px;
+    height: 50px;
+    position: relative;
+    top: -27%;
+    left: 14%;
+    border-radius: 32px;
+  }
+
+  .pic4:hover {
+    border: 4px solid black;
+  }
+
+  .pic5 {
+    position: absolute;
+    top: 52%;
+    left: 190px;
+    width: 40px;
+    height: 40px;
+    border-radius: 24px;
+    border: 3px solid white;
+  }
+
+  hr {
+    width: 54px;
+    position: absolute;
+    top: 52.7%;
+    left: 16.2%;
+
+  }
+
+  .pic6 {
+    width: 140px;
+    height: 100px;
+    position: absolute;
+    top: 550px;
+    left: 76%;
+    border: 4px solid black;
+    border-radius: 12px;
+  }
+
+  #SectionTwo {
+    background-color: white;
+    height: 800px;
+  }
+
+  .two {
+    font-size: 78px;
+    color: black;
+    position: relative;
+    top: 10px;
+    left: -200px;
+    font-weight: 4px;
+  }
+
+  .kya {
+    margin-left: -180px;
+  }
+
+  .off {
+    background-color: rgb(255, 255, 255);
+    height: 120px;
+  }
+
+  .all {
+    width: 300px;
+    border-color: rgb(0, 0, 0);
+    position: relative;
+    top: 30px;
+    left: -26%;
+  }
+
+  .fill {
+    position: relative;
+    top: 40px;
+    margin-left: 192px;
+    font-size: 24px;
+  }
+
+  .van {
+    position: relative;
+    top: 65px;
+    left: -369px;
+    color: black;
+    font-size: 19px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+
+  .full {
+    width: 300px;
+    border-color: rgb(0, 0, 0);
+    position: relative;
+    top: -96.5px;
+    left: 1%;
+  }
+
+  .nill {
+    position: relative;
+    top: -88px;
+    margin-left: 582px;
+    font-size: 24px;
+  }
+
+  .pen {
+    position: relative;
+    top: -65px;
+    margin-left: 42px;
+    color: black;
+    font-size: 19px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+
+  .mall {
+    width: 290px;
+    border-color: rgb(0, 0, 0);
+    position: relative;
+    top: -212.5px;
+    left: 26%;
+  }
+
+  .kill {
+    position: relative;
+    top: -202px;
+    margin-left: 938px;
+    font-size: 24px;
+  }
+
+  .fan {
+    position: relative;
+    top: -180px;
+    margin-left: 736px;
+    color: black;
+    font-size: 19px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+
+  .btn3 {
+    position: relative;
+    top: -120px;
+    left: 190px;
+    width: 170px;
+    height: 55px;
+    background-color: rgb(0, 0, 0);
+    border: 3px solid black;
+    border-radius: 50px;
+    color: rgb(255, 255, 255);
+    font-size: 21px;
+    font-family: "Poppins", sans-serif;
+  }
+
+  .btn3:hover {
+    background-color: rgb(32, 78, 206)
+  }
+
+  #SectionThree {
+    background-color: black;
+    height: 1200px;
+  }
+
+  .three {
+    font-size: 70px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+  }
+
+  .pop {
+    text-align: center;
+    font-size: 23px;
+  }
+
+  .btn4 {
+    position: relative;
+    top: -820px;
+    left: 42%;
+    width: 190px;
+    height: 65px;
+    background-color: rgb(255, 255, 255);
+    border: 3px solid black;
+    border-radius: 50px;
+    color: rgb(0, 0, 0);
+    font-size: 21px;
+    font-family: "Poppins", sans-serif;
+  }
+
+  .btn4:hover {
+    background-color: rgb(120, 121, 124)
+  }
+
+  .Sectionimg {
+    position: relative;
+    top: -710px;
+    margin-left: 222px;
+  }
+
+  .Sectionimg img {
+    border: 4px solid rgb(26, 205, 211);
+    border-radius: 12px;
+  }
+
+  .rem {
+    position: relative;
+    top: -530px;
+    left: -22%;
+    font-size: 66px;
+    color: black;
+  }
+
+  .btn5 {
+    position: relative;
+    top: -620px;
+    margin-left: 56%;
+    width: 150px;
+    height: 45px;
+    background-color: rgb(0, 0, 0);
+    border: 3px solid black;
+    border-radius: 50px;
+    color: rgb(255, 255, 255);
+    font-size: 18px;
+    font-family: "Poppins", sans-serif;
+  }
+
+  .btn5:hover {
+    background-color: rgb(32, 78, 206);
+  }
+
+  .erem {
+    position: relative;
+    top: -717px;
+    margin-left: 42%;
+    font-size: 18px;
+    color: black;
+  }
+
+  div .right2 {
+    position: relative;
+    top: -572px;
+    background-color: rgb(222, 182, 255);
+    width: 85%;
+    height: 546px;
+  }
+
+  .ai {
+    font-size: 64px;
+    color: black;
+    position: relative;
+    top: 60px;
+    left: -30%;
+  }
+
+  .io {
+    color: black;
+    position: relative;
+    top: 70px;
+    left: -30.1%;
+    font-size: 19px;
+  }
+
+  .btn6 {
+    position: relative;
+    top: 90px;
+    left: 7%;
+    width: 175px;
+    height: 55px;
+    background-color: rgb(0, 0, 0);
+    border: 3px solid black;
+    border-radius: 50px;
+    color: rgb(255, 255, 255);
+    font-size: 18px;
+    font-family: "Poppins", sans-serif;
+  }
+
+  .btn6:hover {
+    background-color: rgb(33, 33, 34);
+  }
+
+  .us {
+
+    position: relative;
+    top: -1117px;
+    margin-left: 559px;
+  }
+
+  .bus {
+    position: relative;
+    top: -1598px;
+    margin-left: 670px;
+  }
+
+  #SectionFive {
+    background-color: rgb(173, 173, 173);
+    width: 1422px;
+    height: 1080px;
+    position: relative;
+    top: -117.8%;
+  }
+
+  .era {
+    position: relative;
+    top: 120px;
+    left: 10%;
+  }
+
+  .are {
+    height: 580px;
+    width: 19.7%;
+    position: relative;
+    top: -30px;
+    left: -17.4%;
+    border-radius: 12px;
+  }
+
+  .fr {
+    color: black;
+    font-size: 63px;
+    position: relative;
+    top: -550px;
+    margin-left: 560px;
+
+  }
+
+  .far {
+    color: black;
+    position: relative;
+    top: -520px;
+    margin-left: 40%;
+  }
+
+  .btn7 {
+    position: relative;
+    top: -480px;
+    margin-left: 62%;
+    width: 175px;
+    height: 55px;
+    background-color: rgb(0, 0, 0);
+    border: 3px solid black;
+    border-radius: 50px;
+    color: rgb(255, 255, 255);
+    font-size: 18px;
+    font-family: "Poppins", sans-serif;
+  }
+
+  .btn7:hover {
+    background-color: rgb(33, 33, 34);
+  }
+
+  .left3 {
+    position: relative;
+    top: -1576px;
+    background-color: rgb(0, 0, 0);
+    width: 45.5%;
+    height: 786px;
+  }
+
+  .gf {
+    position: relative;
+    top: 120px;
+    left: 15%;
+    font-size: 68px;
+    text-align: start;
+  }
+  .bf{
+    position: relative;
+    top: 150px;
+    left: 15%;
+    text-align: start;
+    font-size: 26px; 
+  }
+  .mn{
+    position: relative;
+    top: 200px;
+    left: 18%;
+    text-align: start;
+    font-size: 24px;  
+  }
+  .btn8 {
+  position: relative;
+  top:  210px;
+  left: 16%; 
+     width: 175px;
+    height: 55px;
+    background-color: rgb(255, 255, 255);
+    border: 2px solid black;
+    border-radius: 50px;
+    color: rgb(0, 0, 0);
+    font-size: 21px;
+    font-weight: 600;
+    font-family: "Poppins", sans-serif;
+  }
+  .btn8:hover {
+    background-color: rgb(105, 105, 107);
+  }
+  .jpa {
+    position: relative;
+    top: -2362px;
+    left: 45.5%;
+  }
+  #SectionSeven{
+    position: relative;
+    top: -2417px;
+    background-color: rgb(120, 121, 124);
+    width: 100%;
+    height: 900px; 
+}
+.mom{
+ position: relative;
+ top: 120px;
+   font-size: 68px;
+   color: black;
+}
+.dad{
+ position: relative;
+ top: 120px;
+   font-size: 23px;
+   color: black;
+}
+.child{
+  position: relative;
+ top: 220px;
+  margin-left: 20%;
+   font-size: 21px;
+   color: black;
+   text-align: start;
+}
+.child b{
+   font-size: 24px;
+}
+.btn9{
+    position: relative;
+    top: 280px;
+    left: 36%;
+    width: 175px;
+    height: 55px;
+    background-color: rgb(0, 0, 0);
+    border: 2px solid black;
+    border-radius: 50px;
+    color: rgb(255, 255, 255);
+    font-size: 21px;
+    font-weight: 600;
+    font-family: "Poppins", sans-serif;
+  }
+  .btn9:hover {
+    background-color: rgb(46, 46, 48);
+  }
+  .btn10{
+    position: relative;
+    top: 280px;
+    left: 38%;
+    width: 175px;
+    height: 55px;
+    background-color: rgb(32, 78, 206);
+    border: 2px solid rgb(32, 79, 203);
+    border-radius: 50px;
+    color: rgb(255, 255, 255);
+    font-size: 21px;
+    font-weight: 600;
+    font-family: "Poppins", sans-serif;
+  }
+  .btn10:hover {
+    background-color: transparent;
+  }
+  #SectionEight{
+    position: relative;
+    top: -2460px;
+    width: 100%;
+    height: 800px;
+    background-color: black;
+  }
+  .ul{
+    text-align: start;
+    font-size: 64px;
+    position: relative;
+    top: 160px;
+     margin-left: 120px;
+}
+.btn11{
+    position: relative;
+    top: 180px;
+    left: 9%;
+    width: 205px;
+    height: 55px;
+    background-color: rgb(255, 255, 255);
+    border: 2px solid rgb(129, 119, 119);
+    border-radius: 50px;
+    color: rgb(0, 0, 0);
+    font-size: 21px;
+    font-weight: 600;
+    font-family: "Poppins", sans-serif;
+  }
+  .btn11:hover {
+    background-color: rgb(120, 121, 124);
+  }
+  .first{
+    position: relative;
+    top: -220px;
+    left: 43%;
+    width: 270px;
+    border: 16px solid white;
+   border-bottom: 48px solid white;
+  }
+  .first:hover{
+    transition: 1s;
+    translate: 89s;
+  }
+.sec{
+   position: relative;
+   top: -220px;
+   left: 45%;
+   width: 265px;
+   height:155px;
+   border: 16px solid white; 
+   border-bottom: 48px solid white;
+}
+.third{
+  position: relative;
+  top: 50px;
+  left: 10%;
+  width: 270px;
+   height:165px;
+  border: 16px solid white;
+  border-bottom: 48px solid white;
+}
+#SectionNine{
+  background-color: rgb(255, 255, 255);
+  width: 100%;
+  height: 100px;
+  position: relative;
+  top: -100px;
+}
+.op{
+  font-size: 68px;
+  color: black;
+  text-align: start;
+  position: relative;
+  top: -2190px;
+  margin-left: 6%;
+}
+.lol{
+  font-size: 24px;
+  position: relative;
+  top: -2515px;
+  margin-left: 43%;
+  color: black;
+  text-align: start;
+}
+.btn12{
+    position: relative;
+    top: -2470px;
+    left: 42%;
+    width: 215px;
+    height: 65px;
+    background-color: rgb(0, 0, 0);
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 50px;
+    color: rgb(255, 255, 255);
+    font-size: 21px;
+    font-weight: 600;
+    font-family: "Poppins", sans-serif;
+  }
+  .btn12:hover {
+    background-color: rgb(100, 100, 100);
+  }
+#SectionTen{
+   background-color: rgb(73, 80, 182);
+   width: 100%;
+   height: 400px;
+   position: relative;
+   top: -3000px;
+}
+.last{
+  font-size: 68px;
+  text-align: center;
+  color: rgb(255, 255, 255);
+ position: relative;
+ top: 140px;
+ font-weight: 700;
+}
+.btn13{
+  position: relative;
+  top: 140px;
+  margin-left: 42%;
+    width: 215px;
+    height: 65px;
+    background-color: rgb(255, 255, 255);
+    border: 2px solid rgb(255, 255, 255);
+    border-radius: 50px;
+    color: rgb(0, 0, 0);
+    font-size: 21px;
+    font-weight: 600;
+    font-family: "Poppins", sans-serif;
+  }
+  .btn13:hover {
+   border: 4px solid black;
+  }
+ 
+ 
+ .wone{
+  position: relative;
+  top: -2350px;
+  margin-left: 15%;
+ } 
+ .wtwo{
+  position: relative;
+  top: -2800px;
+  margin-left: 55%;
+ }
+ .wthree{
+  position: relative;
+  top: -2700px;
+  margin-left: 15%;
+ }
+ .wfour{
+  position: relative;
+  top: -3155px;
+  margin-left: 55%;
+ }
+ #Footer{
+ position: relative;
+ top: 8800px;  
+}
+.ome{
+  color: black;
+  text-align: start;
+ position: relative;
+ top: 40px;
+ font-size: 24px;
+ margin-left: 8%;
+ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+li{
+ list-style-type:none ;
+ font-size: 18px;
+ position: relative;
+ top: 40px ;
+ margin-left: 5%;
+ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.tow{
+  color: black;
+  text-align: start;
+ position: relative;
+ top: -350px;
+ font-size: 24px;
+ margin-left: 24%;
+ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.ui{
+  position: relative;
+  top: -420px;
+  margin-left: 17%;
+  font-size: 18px;
+}
+.tree{
+  color: black;
+  text-align: start;
+ position: relative;
+ top: -920px;
+ font-size: 24px;
+ margin-left: 40%;
+ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.jp{
+  position: relative;
+  top: -950px;
+  margin-left: 34%;
+  font-size: 18px;
+}
+.for{
+  color: black;
+  text-align: start;
+  position: relative;
+  top: -1160px;
+  font-size: 24px;
+  margin-left: 57%;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.rr{
+  position: relative;
+  top: -1190px;
+  margin-left: 52%;
+  font-size: 18px; 
+}
+.her {
+    font-family: "Ubuntu", sans-serif;
+    font-size: 48px;
+    font-weight: 500;
+    margin-top: -1390px;
+    margin-left: 78%;
+  }
+ .his{
+    color: black;
+    text-align: start;
+    font-size: 15px;
+    font-weight: 600;
+    margin-top: 40px;
+    margin-left: 75%;
+    gap: 4%;
+  }
+  .di{
+    margin-left: 78%;
+    font-size: 21px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+  .ee{
+    margin-left: 77.7%;
+    font-size: 21px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+  .end{
+    text-align: center;
+    color: rgb(134, 9, 93);
+    position: relative;
+    top: 200px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 68px;
+  }
